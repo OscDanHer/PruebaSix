@@ -1,0 +1,17 @@
+C:\PruebaSix\pruebaPractica\Negocios\bin\Debug\net6.0\Negocios.deps.json
+C:\PruebaSix\pruebaPractica\Negocios\bin\Debug\net6.0\Negocios.dll
+C:\PruebaSix\pruebaPractica\Negocios\bin\Debug\net6.0\Negocios.pdb
+C:\PruebaSix\pruebaPractica\Negocios\bin\Debug\net6.0\AccesoDatos.dll
+C:\PruebaSix\pruebaPractica\Negocios\bin\Debug\net6.0\Entidades.dll
+C:\PruebaSix\pruebaPractica\Negocios\bin\Debug\net6.0\AccesoDatos.pdb
+C:\PruebaSix\pruebaPractica\Negocios\bin\Debug\net6.0\Entidades.pdb
+C:\PruebaSix\pruebaPractica\Negocios\obj\Debug\net6.0\Negocios.csproj.AssemblyReference.cache
+C:\PruebaSix\pruebaPractica\Negocios\obj\Debug\net6.0\Negocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebaSix\pruebaPractica\Negocios\obj\Debug\net6.0\Negocios.AssemblyInfoInputs.cache
+C:\PruebaSix\pruebaPractica\Negocios\obj\Debug\net6.0\Negocios.AssemblyInfo.cs
+C:\PruebaSix\pruebaPractica\Negocios\obj\Debug\net6.0\Negocios.csproj.CoreCompileInputs.cache
+C:\PruebaSix\pruebaPractica\Negocios\obj\Debug\net6.0\Negocios.csproj.CopyComplete
+C:\PruebaSix\pruebaPractica\Negocios\obj\Debug\net6.0\Negocios.dll
+C:\PruebaSix\pruebaPractica\Negocios\obj\Debug\net6.0\refint\Negocios.dll
+C:\PruebaSix\pruebaPractica\Negocios\obj\Debug\net6.0\Negocios.pdb
+C:\PruebaSix\pruebaPractica\Negocios\obj\Debug\net6.0\ref\Negocios.dll

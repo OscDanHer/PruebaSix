@@ -1,0 +1,15 @@
+C:\PruebaSix\pruebaPractica\AccesoDatos\bin\Debug\net6.0\AccesoDatos.deps.json
+C:\PruebaSix\pruebaPractica\AccesoDatos\bin\Debug\net6.0\AccesoDatos.dll
+C:\PruebaSix\pruebaPractica\AccesoDatos\bin\Debug\net6.0\AccesoDatos.pdb
+C:\PruebaSix\pruebaPractica\AccesoDatos\bin\Debug\net6.0\Entidades.dll
+C:\PruebaSix\pruebaPractica\AccesoDatos\bin\Debug\net6.0\Entidades.pdb
+C:\PruebaSix\pruebaPractica\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\PruebaSix\pruebaPractica\AccesoDatos\obj\Debug\net6.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebaSix\pruebaPractica\AccesoDatos\obj\Debug\net6.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\PruebaSix\pruebaPractica\AccesoDatos\obj\Debug\net6.0\AccesoDatos.AssemblyInfo.cs
+C:\PruebaSix\pruebaPractica\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\PruebaSix\pruebaPractica\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.CopyComplete
+C:\PruebaSix\pruebaPractica\AccesoDatos\obj\Debug\net6.0\AccesoDatos.dll
+C:\PruebaSix\pruebaPractica\AccesoDatos\obj\Debug\net6.0\refint\AccesoDatos.dll
+C:\PruebaSix\pruebaPractica\AccesoDatos\obj\Debug\net6.0\AccesoDatos.pdb
+C:\PruebaSix\pruebaPractica\AccesoDatos\obj\Debug\net6.0\ref\AccesoDatos.dll

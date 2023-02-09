@@ -1,0 +1,26 @@
+<div class="container">
+  <div class="rouu text-center mt-5">
+    <div class="col">
+      <h2>Usuarios</h2>
+    </div>
+  </div>
+  <div class="rouu mt-5">
+    <div class="call">
+      <button type="button" (click)="OnGetUsers()">Buscar</button>
+    </div>
+    <div class="col">
+      <table id="dtUsuario" class="table align-middle">
+        <tr>
+          <th>id</th>
+          <th>nombre</th>
+          <th>apellido</th>
+        </tr>
+        <tr *ngFor="let item of dataTable">
+          <td>{{item.UsuId}}</td>
+          <td>{{item.Nombre}}</td>
+          <td>{{item.Apellido}}</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
